@@ -1,0 +1,319 @@
+﻿body{border:0;margin:0;padding:0;font-size:14px;font-family:"微软雅黑";background:#fff;}
+ul,li,dl,dt,dd,img,h1,h2,h3,h4,h5,h6,p,a,textarea,input,span,div,i{ border:0; margin:0; padding:0; list-style:none; text-decoration:none;}
+i{
+	font-style: normal;
+}
+header{
+    padding: 23px 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.xian{
+    background: #EEEEEE;
+    width: 100%;
+    height: 1px;
+}
+header figure{
+    width: 88%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+header figure img{
+    width: 64px;
+    height: auto;
+    display: block;
+    margin-right: 10px;
+}
+header figure figcaption h2{
+    font-size: 18px;
+    color: #333333;
+    text-align: justify;
+    line-height: 30px;
+    font-weight: bold;
+}
+header figure figcaption p{
+    font-size: 12px;
+    color: #999999;
+    text-align: justify;
+}
+.pingfen{
+    width: 100%;
+    padding-top: 25px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.pingfen-fen{
+    width: 88%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.pingfen-fen_shu{
+    width: 50%;
+}
+.fenZz{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.fenZz img{
+    width: 120px;
+    display: block;
+    height: 22px;
+}
+.fenZz span{
+    font-size: 20px;
+    color: #FFB567;
+    text-align: justify;
+}
+.pingfen-fen_shu p{
+    font-size: 12px;
+    color: #999999;
+    text-align: justify;
+}
+.astrict-crowd{
+    width: 50%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.astrict-crowdt{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.astrict-crowd_ p{
+    font-size: 19px;
+    color: #333333;
+    text-align: justify;
+    margin-bottom: 5px;
+}
+.astrict-crowd_ span{
+    font-size: 12px;
+    color: #999999;
+    text-align: justify;
+}
+.linellae{
+    background: #F9F9F9;
+    height: 10px;
+    width: 100%;
+    margin-top: 25px;
+}
+.xiazai{
+    width: 88%;
+    height: 50px;
+    line-height: 50px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 24px;
+    font-family: PingFangTC-Regular;
+    font-size: 17px;
+    color: #FBFBFB;
+    letter-spacing: 0;
+    background: #E95C65;
+    box-shadow: 0 0 10px 0 rgba(241,88,98,0.50);
+    border-radius: 22px;
+}
+.renshu{
+    font-size: 12px;
+    color: #999999;
+    text-align: center;
+    margin-top: 13px;
+}
+.wenz {
+    font-size: 15px;
+    color: #333333;
+    line-height: 25px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.wenz span{
+    font-weight: bold;
+    line-height: 25px;
+    font-size: 18px;
+    color: #131415;
+    padding-bottom: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    letter-spacing: 0;
+}
+.wenz h2 , .wenz h2 a{
+    line-height: 25px;
+    font-size: 14px;
+    text-indent: 15px;
+    color: rgba(19,20,21,.75);
+    font-style: normal;
+    letter-spacing: 0;
+    overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.browse{
+    width: 100%;
+    margin: 0 auto;
+
+}
+.browse h2{
+    width: 90%;
+    margin: 20px auto;
+    font-size: 20px;
+    color: #333333;
+    font-weight: bold;
+    text-align: left;
+}
+.browse-1{
+    width: 100%;
+    padding-left: 5%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow-y: hidden;
+}
+.browse-{
+    width: 808px;
+    padding-right: 5%;
+    display: flex;
+    justify-content: center;
+}
+.browse- figure{
+    display: block;
+    width: 144px;
+    height: 256px;
+    margin: 0 7px;
+    padding: 0;
+}
+.browse- img{
+    display: block;
+    width: 100%;
+
+}
+
+.pinmgl .pf{
+    width: 90%;
+    margin: 20px auto;
+    font-size: 20px;
+    color: #333333;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 13px;
+}
+.fea{
+    width: 90%;
+    margin: 0 auto;
+}
+.fea img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.sincere{
+    background: #ffffff;
+}
+.sincere_{
+    width: 100%;
+    margin: 0 auto;
+    background: #fff;
+    margin-top: 20px;
+}
+.zhen1a{
+    background: #F9F9F9;
+    border-radius: 6px;
+    margin: 10px 3%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 12px 4%;
+}
+.zhen1a p{
+    text-align: left;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #131415;
+    letter-spacing: 0;
+    line-height: 20px;
+    font-weight: bold;
+}
+.zhen1a h2{
+    margin-bottom: 5px;
+    text-align: left;
+    font-family: OPPOSans-R;
+    font-size: 14px;
+    color: #131415;
+    font-weight: normal;
+    letter-spacing: 0.4px;
+    line-height: 20px;
+}
+.xianT{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.banerb{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+}
+.banerb img{
+    width: 60px;
+    height: auto;
+    margin-right: 2%;
+}
+.ben {
+    font-size: 12px;
+    color: #999999;
+    text-align: justify;
+}
+.pinmglTa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 55px;
+    font-family: OPPOSans-R;
+    font-size: 14px;
+    color: #131415;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+.pinmglTa img{
+    width: 11px;
+    height: 6px;
+    margin-right: 5px;
+}
+.unfold {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 30px;
+}
+.unfold img{
+    width: 11px;
+    height: 6px;
+    margin-right: 5px;
+}
+.five_x1 {
+    float: left;
+    margin-right: 9px;
+    width: 133px;
+}
+
+    .five_x1 img {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        float: left;
+        margin: 0 1px;
+    }
